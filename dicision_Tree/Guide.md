@@ -38,9 +38,12 @@ Entropy is represented by the following formula:-
 
 
 linkcode
+![entropy-formula](https://github.com/zerouchi/Machine-Learning/assets/79967043/898f337c-24d4-4146-8615-d7ddb2c582c6)
+
 ￼
 In a decision tree, the output is mostly “yes” or “no”
 The formula for Entropy is shown below:
+![706025](https://github.com/zerouchi/Machine-Learning/assets/79967043/b223a1c5-df75-40e9-bfe3-cbbfd191f716)
 
 ￼
 Here,
@@ -63,7 +66,8 @@ It is just entropy of the full dataset – entropy of the dataset given some fea
 
 * Gini index
 Gini index
-￼
+￼![410199](https://github.com/zerouchi/Machine-Learning/assets/79967043/66c622f8-9a8f-4022-ba65-26672dab5b02)
+
 Hyper parameter tuning
 Certainly, we can categorize the hyperparameters of decision trees into two groups based on their impact on model performance and training speed:
 
