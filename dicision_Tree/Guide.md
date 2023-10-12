@@ -12,6 +12,9 @@ Before learning more about decision trees let’s get familiar with some of the 
 * Branch / Sub-Tree: A subsection of the entire decision tree is referred to as a branch or sub-tree. It represents a specific path of decisions and outcomes within the tree.
 * Parent and Child Node: In a decision tree, a node that is divided into sub-nodes is known as a parent node, and the sub-nodes emerging from it are referred to as child nodes. The parent node represents a decision or condition, while the child nodes represent the potential outcomes or further decisions based on that condition.
 
+* ![ROOT Node](https://github.com/zerouchi/Machine-Learning/assets/79967043/23780288-5ef0-4450-a499-c8f1d3d27d18)
+
+
 ￼
 
 
