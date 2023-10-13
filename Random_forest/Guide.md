@@ -18,7 +18,8 @@ Bagging, also known as Bootstrap Aggregation, is the ensemble technique used b
 1.  A large data set is taken and divided into n sample where n is equal to the no. of ml model we are using
 2. Each model is trained with some sample of data
 
-![Uploading Screenshot 2023-10-12 at 2.29.13 PM.png…]()
+<img width="1110" alt="Screenshot 2023-10-12 at 2 29 13 PM" src="https://github.com/zerouchi/Machine-Learning/assets/79967043/61c3349d-2a2e-48b7-81db-50b511d54247">
+
 
 ￼
 
